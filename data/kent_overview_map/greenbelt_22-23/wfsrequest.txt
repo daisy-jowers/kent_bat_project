@@ -1,0 +1,1 @@
+https://maps.communities.gov.uk:443/geoserver/dclg_inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=dclg_inspire%3AEngland_Green_Belt_2022_23_WGS84&outputFormat=SHAPE-ZIP
